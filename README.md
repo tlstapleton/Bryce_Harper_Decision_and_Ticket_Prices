@@ -59,9 +59,18 @@ In L.A., the New York Yankees coming to town results in the highest median ticke
 
 ### Ticket Price for Away Games 
 
+Where do these teams command the highest ticket prices when they are on the road?
+
+For the Nationals, it appears that Wrigley Field is at the top of the list.  The Nationals at Cubs games currently have the highest average median ticket price
+listed on SeatGeek for Nationals away games.  Who are the next three top contenders?  The Orioles, Dodgers, and Phillies, in that order.  
+
 ![Nats Away Games](/Images/nats_awayopponents.png)
 
+When the Phillies go on the road, their ticket prices are highest when they are in Fenway Park.  Their games in D.C. rank 4th.
+
 ![Phils Away Games](/Images/phils_awayopponents.png)
+
+Once again, Boston comes in at the top when the L.A. Dodgers are away as well.
 
 ![Dodgers Away Games](/Images/dodgers_awayopponents.png)
 
@@ -69,7 +78,9 @@ In L.A., the New York Yankees coming to town results in the highest median ticke
 
 * The top median ticket price currently on SeatGeek for each of the three teams is, unsurprisingly, each team's respective home opener.
 
-* Also not the most surprising, the Boston Red Sox command high ticket prices.  As the reigning World Champs, this is probably to be expect.
+* Also not the most surprising, the Boston Red Sox command high ticket prices.  As the reigning World Champs, this is probably to be expected.  In fact, ticket prices are most likely naturally higher at Fenway Park than other stadiums, regardless of the opponent.
 
 * Another thing to note: the Cubs continue to bring in high ticket prices even 3 years after their historic World Series win.  Especially in D.C., where the Nationals and Cubs, although in different divisions, have in past seasons had some exciting games.
+
+* Although it may be true that teams such as the Cubs and Red Sox have higher ticket prices in their home stadiums regardless of opponent, it will be interesting to see if Bryce Harper's decision makes these prices go up or down relative to how they currently stand, before his decision.
 
