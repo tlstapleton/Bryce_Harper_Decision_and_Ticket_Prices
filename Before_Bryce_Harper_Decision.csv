@@ -1,0 +1,192 @@
+,event,datetime,opponent,median_ticket_price,date,time
+0,Spring Training: Washington Nationals at Atlanta Braves,2019-02-25T13:05:00,Atlanta Braves,27,2019-02-25,13:05
+1,Spring Training: St. Louis Cardinals at Washington Nationals,2019-02-26T13:05:00,St. Louis Cardinals,37,2019-02-26,13:05
+2,Spring Training: Houston Astros at Washington Nationals,2019-02-27T13:05:00,Houston Astros,36,2019-02-27,13:05
+3,Spring Training: Washington Nationals at Boston Red Sox,2019-02-28T13:05:00,Boston Red Sox,37,2019-02-28,13:05
+4,Spring Training: Washington Nationals at Miami Marlins,2019-03-01T13:05:00,Miami Marlins,32,2019-03-01,13:05
+5,Spring Training: Minnesota Twins at Washington Nationals,2019-03-02T13:05:00,Minnesota Twins,50,2019-03-02,13:05
+6,Spring Training: Houston Astros at Washington Nationals,2019-03-03T13:05:00,Houston Astros,65,2019-03-03,13:05
+7,Spring Training: Washington Nationals at Miami Marlins,2019-03-04T13:05:00,Miami Marlins,30,2019-03-04,13:05
+8,Spring Training: Boston Red Sox at Washington Nationals,2019-03-05T13:05:00,Boston Red Sox,136,2019-03-05,13:05
+9,Spring Training: New York Mets at Washington Nationals,2019-03-07T13:05:00,New York Mets,77,2019-03-07,13:05
+10,Spring Training: Washington Nationals at St. Louis Cardinals,2019-03-08T13:05:00,St. Louis Cardinals,48,2019-03-08,13:05
+11,Spring Training: Miami Marlins at Washington Nationals,2019-03-09T18:35:00,Miami Marlins,52,2019-03-09,18:35
+12,Spring Training: Washington Nationals at Houston Astros,2019-03-10T13:05:00,Houston Astros,78,2019-03-10,13:05
+13,Spring Training: Washington Nationals at St. Louis Cardinals,2019-03-11T13:05:00,St. Louis Cardinals,63,2019-03-11,13:05
+14,Spring Training: Houston Astros at Washington Nationals,2019-03-12T18:35:00,Houston Astros,62,2019-03-12,18:35
+15,Spring Training: Atlanta Braves at Washington Nationals,2019-03-13T13:05:00,Atlanta Braves,50,2019-03-13,13:05
+16,Spring Training: Washington Nationals at Minnesota Twins,2019-03-14T13:05:00,Minnesota Twins,44,2019-03-14,13:05
+17,Spring Training: Washington Nationals at New York Mets,2019-03-15T13:10:00,New York Mets,65,2019-03-15,13:10
+18,Spring Training: St. Louis Cardinals at Washington Nationals,2019-03-16T13:05:00,St. Louis Cardinals,80,2019-03-16,13:05
+19,Spring Training: New York Mets at Washington Nationals,2019-03-17T13:05:00,New York Mets,73,2019-03-17,13:05
+20,Spring Training: Miami Marlins at Washington Nationals,2019-03-18T13:05:00,Miami Marlins,45,2019-03-18,13:05
+21,Spring Training: Washington Nationals at New York Mets,2019-03-18T13:10:00,New York Mets,53,2019-03-18,13:10
+22,Spring Training: Washington Nationals at Atlanta Braves,2019-03-19T13:05:00,Atlanta Braves,69,2019-03-19,13:05
+23,Spring Training: St. Louis Cardinals at Washington Nationals,2019-03-21T18:35:00,St. Louis Cardinals,70,2019-03-21,18:35
+24,Spring Training: Washington Nationals at Miami Marlins,2019-03-22T19:05:00,Miami Marlins,56,2019-03-22,19:05
+25,Spring Training: St. Louis Cardinals at Washington Nationals,2019-03-23T13:05:00,St. Louis Cardinals,81,2019-03-23,13:05
+26,Spring Training: Washington Nationals at New York Mets,2019-03-24T12:10:00,New York Mets,62,2019-03-24,12:10
+27,Spring Training: Washington Nationals at Houston Astros,2019-03-24T13:05:00,Houston Astros,74,2019-03-24,13:05
+28,Spring Training: New York Yankees at Washington Nationals,2019-03-25T17:05:00,New York Yankees,77,2019-03-25,17:05
+29,Opening Day: New York Mets at Washington Nationals,2019-03-28T13:05:00,New York Mets,211,2019-03-28,13:05
+30,New York Mets at Washington Nationals,2019-03-30T13:05:00,New York Mets,74,2019-03-30,13:05
+31,New York Mets at Washington Nationals,2019-03-31T13:35:00,New York Mets,69,2019-03-31,13:35
+32,Philadelphia Phillies at Washington Nationals,2019-04-02T19:05:00,Philadelphia Phillies,168,2019-04-02,19:05
+33,Philadelphia Phillies at Washington Nationals,2019-04-03T13:05:00,Philadelphia Phillies,126,2019-04-03,13:05
+34,Opening Day: Washington Nationals at New York Mets,2019-04-04T13:10:00,New York Mets,162,2019-04-04,13:10
+35,Washington Nationals at New York Mets,2019-04-06T13:10:00,New York Mets,81,2019-04-06,13:10
+36,Washington Nationals at New York Mets,2019-04-07T13:10:00,New York Mets,83,2019-04-07,13:10
+37,Washington Nationals at Philadelphia Phillies,2019-04-08T19:05:00,Philadelphia Phillies,77,2019-04-08,19:05
+38,Washington Nationals at Philadelphia Phillies,2019-04-09T19:05:00,Philadelphia Phillies,75,2019-04-09,19:05
+39,Washington Nationals at Philadelphia Phillies,2019-04-10T19:05:00,Philadelphia Phillies,78,2019-04-10,19:05
+40,Pittsburgh Pirates at Washington Nationals,2019-04-12T19:05:00,Pittsburgh Pirates,82,2019-04-12,19:05
+41,Pittsburgh Pirates at Washington Nationals,2019-04-13T16:05:00,Pittsburgh Pirates,94,2019-04-13,16:05
+42,Pittsburgh Pirates at Washington Nationals,2019-04-14T13:35:00,Pittsburgh Pirates,80,2019-04-14,13:35
+43,San Francisco Giants at Washington Nationals,2019-04-16T19:05:00,San Francisco Giants,99,2019-04-16,19:05
+44,San Francisco Giants at Washington Nationals,2019-04-17T19:05:00,San Francisco Giants,84,2019-04-17,19:05
+45,San Francisco Giants at Washington Nationals,2019-04-18T13:05:00,San Francisco Giants,96,2019-04-18,13:05
+46,Washington Nationals at Miami Marlins,2019-04-19T19:10:00,Miami Marlins,86,2019-04-19,19:10
+47,Washington Nationals at Miami Marlins,2019-04-20T18:10:00,Miami Marlins,82,2019-04-20,18:10
+48,Washington Nationals at Miami Marlins,2019-04-21T13:10:00,Miami Marlins,77,2019-04-21,13:10
+49,Washington Nationals at Colorado Rockies,2019-04-22T18:40:00,Colorado Rockies,45,2019-04-22,18:40
+50,Washington Nationals at Colorado Rockies,2019-04-23T18:40:00,Colorado Rockies,44,2019-04-23,18:40
+51,Washington Nationals at Colorado Rockies,2019-04-24T13:10:00,Colorado Rockies,45,2019-04-24,13:10
+52,San Diego Padres at Washington Nationals,2019-04-26T19:05:00,San Diego Padres,86,2019-04-26,19:05
+53,San Diego Padres at Washington Nationals,2019-04-27T16:05:00,San Diego Padres,95,2019-04-27,16:05
+54,San Diego Padres at Washington Nationals,2019-04-28T13:35:00,San Diego Padres,83,2019-04-28,13:35
+55,St. Louis Cardinals at Washington Nationals,2019-04-29T19:05:00,St. Louis Cardinals,55,2019-04-29,19:05
+56,St. Louis Cardinals at Washington Nationals,2019-04-30T19:05:00,St. Louis Cardinals,51,2019-04-30,19:05
+57,St. Louis Cardinals at Washington Nationals,2019-05-01T19:05:00,St. Louis Cardinals,52,2019-05-01,19:05
+58,St. Louis Cardinals at Washington Nationals,2019-05-02T16:05:00,St. Louis Cardinals,54,2019-05-02,16:05
+59,Washington Nationals at Philadelphia Phillies,2019-05-03T19:05:00,Philadelphia Phillies,93,2019-05-03,19:05
+60,Washington Nationals at Philadelphia Phillies,2019-05-04T19:05:00,Philadelphia Phillies,107,2019-05-04,19:05
+61,Washington Nationals at Philadelphia Phillies,2019-05-05T14:05:00,Philadelphia Phillies,95,2019-05-05,14:05
+62,Washington Nationals at Milwaukee Brewers,2019-05-06T18:40:00,Milwaukee Brewers,51,2019-05-06,18:40
+63,Washington Nationals at Milwaukee Brewers,2019-05-07T18:40:00,Milwaukee Brewers,54,2019-05-07,18:40
+64,Washington Nationals at Milwaukee Brewers,2019-05-08T12:10:00,Milwaukee Brewers,67,2019-05-08,12:10
+65,Washington Nationals at Los Angeles Dodgers,2019-05-09T19:10:00,Los Angeles Dodgers,101,2019-05-09,19:10
+66,Washington Nationals at Los Angeles Dodgers,2019-05-10T19:10:00,Los Angeles Dodgers,94,2019-05-10,19:10
+67,Washington Nationals at Los Angeles Dodgers,2019-05-11T18:10:00,Los Angeles Dodgers,113,2019-05-11,18:10
+68,Washington Nationals at Los Angeles Dodgers,2019-05-12T13:10:00,Los Angeles Dodgers,111,2019-05-12,13:10
+69,New York Mets at Washington Nationals,2019-05-14T19:05:00,New York Mets,62,2019-05-14,19:05
+70,New York Mets at Washington Nationals,2019-05-15T19:05:00,New York Mets,82,2019-05-15,19:05
+71,New York Mets at Washington Nationals,2019-05-16T13:05:00,New York Mets,63,2019-05-16,13:05
+72,Chicago Cubs at Washington Nationals,2019-05-17T19:05:00,Chicago Cubs,111,2019-05-17,19:05
+73,Chicago Cubs at Washington Nationals,2019-05-18T19:15:00,Chicago Cubs,120,2019-05-18,19:15
+74,Chicago Cubs at Washington Nationals,2019-05-19T19:08:00,Chicago Cubs,84,2019-05-19,19:08
+75,Washington Nationals at New York Mets,2019-05-20T19:10:00,New York Mets,46,2019-05-20,19:10
+76,Washington Nationals at New York Mets,2019-05-21T19:10:00,New York Mets,36,2019-05-21,19:10
+77,Washington Nationals at New York Mets,2019-05-22T19:10:00,New York Mets,42,2019-05-22,19:10
+78,Washington Nationals at New York Mets,2019-05-23T12:10:00,New York Mets,35,2019-05-23,12:10
+79,Miami Marlins at Washington Nationals,2019-05-24T19:05:00,Miami Marlins,66,2019-05-24,19:05
+80,Miami Marlins at Washington Nationals,2019-05-25T16:05:00,Miami Marlins,73,2019-05-25,16:05
+81,Miami Marlins at Washington Nationals,2019-05-26T13:35:00,Miami Marlins,67,2019-05-26,13:35
+82,Miami Marlins at Washington Nationals,2019-05-27T13:05:00,Miami Marlins,75,2019-05-27,13:05
+83,Washington Nationals at Atlanta Braves,2019-05-28T19:20:00,Atlanta Braves,77,2019-05-28,19:20
+84,Washington Nationals at Atlanta Braves,2019-05-29T19:20:00,Atlanta Braves,68,2019-05-29,19:20
+85,Washington Nationals at Cincinnati Reds,2019-05-31T19:10:00,Cincinnati Reds,77,2019-05-31,19:10
+86,Washington Nationals at Cincinnati Reds,2019-06-01T16:10:00,Cincinnati Reds,91,2019-06-01,16:10
+87,Washington Nationals at Cincinnati Reds,2019-06-02T13:10:00,Cincinnati Reds,69,2019-06-02,13:10
+88,Chicago White Sox at Washington Nationals,2019-06-04T19:05:00,Chicago White Sox,68,2019-06-04,19:05
+89,Chicago White Sox at Washington Nationals,2019-06-05T13:05:00,Chicago White Sox,81,2019-06-05,13:05
+90,Washington Nationals at San Diego Padres,2019-06-06T19:10:00,San Diego Padres,68,2019-06-06,19:10
+91,Washington Nationals at San Diego Padres,2019-06-07T19:10:00,San Diego Padres,78,2019-06-07,19:10
+92,Washington Nationals at San Diego Padres,2019-06-08T19:10:00,San Diego Padres,75,2019-06-08,19:10
+93,Washington Nationals at San Diego Padres,2019-06-09T13:10:00,San Diego Padres,70,2019-06-09,13:10
+94,Washington Nationals at Chicago White Sox,2019-06-10T19:10:00,Chicago White Sox,91,2019-06-10,19:10
+95,Washington Nationals at Chicago White Sox,2019-06-11T19:10:00,Chicago White Sox,96,2019-06-11,19:10
+96,Arizona Diamondbacks at Washington Nationals,2019-06-13T19:05:00,Arizona Diamondbacks,77,2019-06-13,19:05
+97,Arizona Diamondbacks at Washington Nationals,2019-06-14T19:05:00,Arizona Diamondbacks,81,2019-06-14,19:05
+98,Arizona Diamondbacks at Washington Nationals,2019-06-15T16:05:00,Arizona Diamondbacks,104,2019-06-15,16:05
+99,Arizona Diamondbacks at Washington Nationals,2019-06-16T13:35:00,Arizona Diamondbacks,105,2019-06-16,13:35
+100,Philadelphia Phillies at Washington Nationals,2019-06-17T19:05:00,Philadelphia Phillies,103,2019-06-17,19:05
+101,Philadelphia Phillies at Washington Nationals,2019-06-18T19:05:00,Philadelphia Phillies,102,2019-06-18,19:05
+102,Philadelphia Phillies at Washington Nationals,2019-06-19T19:05:00,Philadelphia Phillies,100,2019-06-19,19:05
+103,Philadelphia Phillies at Washington Nationals,2019-06-20T19:05:00,Philadelphia Phillies,106,2019-06-20,19:05
+104,Atlanta Braves at Washington Nationals,2019-06-21T19:05:00,Atlanta Braves,80,2019-06-21,19:05
+105,Atlanta Braves at Washington Nationals,2019-06-22T19:15:00,Atlanta Braves,81,2019-06-22,19:15
+106,Atlanta Braves at Washington Nationals,2019-06-23T13:35:00,Atlanta Braves,81,2019-06-23,13:35
+107,Washington Nationals at Miami Marlins,2019-06-25T19:10:00,Miami Marlins,80,2019-06-25,19:10
+108,Washington Nationals at Miami Marlins,2019-06-26T19:10:00,Miami Marlins,82,2019-06-26,19:10
+109,Washington Nationals at Miami Marlins,2019-06-27T19:10:00,Miami Marlins,76,2019-06-27,19:10
+110,Washington Nationals at Detroit Tigers,2019-06-28T19:10:00,Detroit Tigers,90,2019-06-28,19:10
+111,Washington Nationals at Detroit Tigers,2019-06-29T16:10:00,Detroit Tigers,100,2019-06-29,16:10
+112,Washington Nationals at Detroit Tigers,2019-06-30T13:10:00,Detroit Tigers,91,2019-06-30,13:10
+113,Miami Marlins at Washington Nationals,2019-07-02T19:05:00,Miami Marlins,84,2019-07-02,19:05
+114,Miami Marlins at Washington Nationals,2019-07-03T18:05:00,Miami Marlins,108,2019-07-03,18:05
+115,Miami Marlins at Washington Nationals,2019-07-04T11:05:00,Miami Marlins,103,2019-07-04,11:05
+116,Kansas City Royals at Washington Nationals,2019-07-05T19:05:00,Kansas City Royals,99,2019-07-05,19:05
+117,Kansas City Royals at Washington Nationals,2019-07-06T16:05:00,Kansas City Royals,99,2019-07-06,16:05
+118,Kansas City Royals at Washington Nationals,2019-07-07T13:35:00,Kansas City Royals,85,2019-07-07,13:35
+119,Washington Nationals at Philadelphia Phillies,2019-07-12T18:05:00,Philadelphia Phillies,107,2019-07-12,18:05
+120,Washington Nationals at Philadelphia Phillies,2019-07-13T19:15:00,Philadelphia Phillies,112,2019-07-13,19:15
+121,Washington Nationals at Philadelphia Phillies,2019-07-14T13:05:00,Philadelphia Phillies,104,2019-07-14,13:05
+122,Washington Nationals at Baltimore Orioles,2019-07-16T19:05:00,Baltimore Orioles,105,2019-07-16,19:05
+123,Washington Nationals at Baltimore Orioles,2019-07-17T19:05:00,Baltimore Orioles,117,2019-07-17,19:05
+124,Washington Nationals at Atlanta Braves,2019-07-18T19:20:00,Atlanta Braves,87,2019-07-18,19:20
+125,Washington Nationals at Atlanta Braves,2019-07-19T19:20:00,Atlanta Braves,91,2019-07-19,19:20
+126,Washington Nationals at Atlanta Braves,2019-07-20T19:20:00,Atlanta Braves,114,2019-07-20,19:20
+127,Washington Nationals at Atlanta Braves,2019-07-21T13:20:00,Atlanta Braves,87,2019-07-21,13:20
+128,Colorado Rockies at Washington Nationals,2019-07-22T19:05:00,Colorado Rockies,80,2019-07-22,19:05
+129,Colorado Rockies at Washington Nationals,2019-07-23T19:05:00,Colorado Rockies,77,2019-07-23,19:05
+130,Colorado Rockies at Washington Nationals,2019-07-24T19:05:00,Colorado Rockies,80,2019-07-24,19:05
+131,Colorado Rockies at Washington Nationals,2019-07-25T16:05:00,Colorado Rockies,79,2019-07-25,16:05
+132,Los Angeles Dodgers at Washington Nationals,2019-07-26T19:05:00,Los Angeles Dodgers,106,2019-07-26,19:05
+133,Los Angeles Dodgers at Washington Nationals,2019-07-27T16:05:00,Los Angeles Dodgers,113,2019-07-27,16:05
+134,Los Angeles Dodgers at Washington Nationals,2019-07-28T13:35:00,Los Angeles Dodgers,92,2019-07-28,13:35
+135,Atlanta Braves at Washington Nationals,2019-07-29T19:05:00,Atlanta Braves,73,2019-07-29,19:05
+136,Atlanta Braves at Washington Nationals,2019-07-30T19:05:00,Atlanta Braves,68,2019-07-30,19:05
+137,Atlanta Braves at Washington Nationals,2019-07-31T12:05:00,Atlanta Braves,69,2019-07-31,12:05
+138,Washington Nationals at Arizona Diamondbacks,2019-08-02T18:40:00,Arizona Diamondbacks,85,2019-08-02,18:40
+139,Washington Nationals at Arizona Diamondbacks,2019-08-03T17:10:00,Arizona Diamondbacks,88,2019-08-03,17:10
+140,Washington Nationals at Arizona Diamondbacks,2019-08-04T13:10:00,Arizona Diamondbacks,77,2019-08-04,13:10
+141,Washington Nationals at San Francisco Giants,2019-08-05T18:45:00,San Francisco Giants,79,2019-08-05,18:45
+142,Washington Nationals at San Francisco Giants,2019-08-06T18:45:00,San Francisco Giants,82,2019-08-06,18:45
+143,Washington Nationals at San Francisco Giants,2019-08-07T12:45:00,San Francisco Giants,102,2019-08-07,12:45
+144,Washington Nationals at New York Mets,2019-08-09T19:10:00,New York Mets,69,2019-08-09,19:10
+145,Washington Nationals at New York Mets,2019-08-10T19:10:00,New York Mets,81,2019-08-10,19:10
+146,Washington Nationals at New York Mets,2019-08-11T13:10:00,New York Mets,71,2019-08-11,13:10
+147,Cincinnati Reds at Washington Nationals,2019-08-12T19:05:00,Cincinnati Reds,50,2019-08-12,19:05
+148,Cincinnati Reds at Washington Nationals,2019-08-13T19:05:00,Cincinnati Reds,47,2019-08-13,19:05
+149,Cincinnati Reds at Washington Nationals,2019-08-14T16:05:00,Cincinnati Reds,48,2019-08-14,16:05
+150,Milwaukee Brewers at Washington Nationals,2019-08-16T19:05:00,Milwaukee Brewers,90,2019-08-16,19:05
+151,Milwaukee Brewers at Washington Nationals,2019-08-17T19:05:00,Milwaukee Brewers,89,2019-08-17,19:05
+152,Milwaukee Brewers at Washington Nationals,2019-08-18T13:35:00,Milwaukee Brewers,78,2019-08-18,13:35
+153,Washington Nationals at Pittsburgh Pirates,2019-08-19T19:05:00,Pittsburgh Pirates,72,2019-08-19,19:05
+154,Washington Nationals at Pittsburgh Pirates,2019-08-20T19:05:00,Pittsburgh Pirates,69,2019-08-20,19:05
+155,Washington Nationals at Pittsburgh Pirates,2019-08-21T19:05:00,Pittsburgh Pirates,83,2019-08-21,19:05
+156,Washington Nationals at Pittsburgh Pirates,2019-08-22T19:05:00,Pittsburgh Pirates,63,2019-08-22,19:05
+157,Washington Nationals at Chicago Cubs,2019-08-23T13:20:00,Chicago Cubs,171,2019-08-23,13:20
+158,Washington Nationals at Chicago Cubs,2019-08-24T13:20:00,Chicago Cubs,208,2019-08-24,13:20
+159,Washington Nationals at Chicago Cubs,2019-08-25T13:20:00,Chicago Cubs,159,2019-08-25,13:20
+160,Baltimore Orioles at Washington Nationals,2019-08-27T19:05:00,Baltimore Orioles,71,2019-08-27,19:05
+161,Baltimore Orioles at Washington Nationals,2019-08-28T19:05:00,Baltimore Orioles,72,2019-08-28,19:05
+162,Miami Marlins at Washington Nationals,2019-08-30T19:05:00,Miami Marlins,84,2019-08-30,19:05
+163,Miami Marlins at Washington Nationals,2019-08-31T19:05:00,Miami Marlins,83,2019-08-31,19:05
+164,Miami Marlins at Washington Nationals,2019-09-01T13:35:00,Miami Marlins,81,2019-09-01,13:35
+165,New York Mets at Washington Nationals,2019-09-02T13:05:00,New York Mets,68,2019-09-02,13:05
+166,New York Mets at Washington Nationals,2019-09-03T19:05:00,New York Mets,47,2019-09-03,19:05
+167,New York Mets at Washington Nationals,2019-09-04T13:05:00,New York Mets,48,2019-09-04,13:05
+168,Washington Nationals at Atlanta Braves,2019-09-05T19:20:00,Atlanta Braves,75,2019-09-05,19:20
+169,Washington Nationals at Atlanta Braves,2019-09-06T19:20:00,Atlanta Braves,85,2019-09-06,19:20
+170,Washington Nationals at Atlanta Braves,2019-09-07T19:20:00,Atlanta Braves,91,2019-09-07,19:20
+171,Washington Nationals at Atlanta Braves,2019-09-08T13:20:00,Atlanta Braves,79,2019-09-08,13:20
+172,Washington Nationals at Minnesota Twins,2019-09-10T18:40:00,Minnesota Twins,39,2019-09-10,18:40
+173,Washington Nationals at Minnesota Twins,2019-09-11T18:40:00,Minnesota Twins,65,2019-09-11,18:40
+174,Washington Nationals at Minnesota Twins,2019-09-12T18:40:00,Minnesota Twins,74,2019-09-12,18:40
+175,Atlanta Braves at Washington Nationals,2019-09-13T19:05:00,Atlanta Braves,67,2019-09-13,19:05
+176,Atlanta Braves at Washington Nationals,2019-09-14T16:05:00,Atlanta Braves,65,2019-09-14,16:05
+177,Atlanta Braves at Washington Nationals,2019-09-15T13:35:00,Atlanta Braves,63,2019-09-15,13:35
+178,Washington Nationals at St. Louis Cardinals,2019-09-16T18:45:00,St. Louis Cardinals,94,2019-09-16,18:45
+179,Washington Nationals at St. Louis Cardinals,2019-09-17T18:45:00,St. Louis Cardinals,88,2019-09-17,18:45
+180,Washington Nationals at St. Louis Cardinals,2019-09-18T12:15:00,St. Louis Cardinals,89,2019-09-18,12:15
+181,Washington Nationals at Miami Marlins,2019-09-20T19:10:00,Miami Marlins,75,2019-09-20,19:10
+182,Washington Nationals at Miami Marlins,2019-09-21T18:10:00,Miami Marlins,77,2019-09-21,18:10
+183,Washington Nationals at Miami Marlins,2019-09-22T13:10:00,Miami Marlins,81,2019-09-22,13:10
+184,Philadelphia Phillies at Washington Nationals,2019-09-23T19:05:00,Philadelphia Phillies,108,2019-09-23,19:05
+185,Philadelphia Phillies at Washington Nationals,2019-09-24T19:05:00,Philadelphia Phillies,104,2019-09-24,19:05
+186,Philadelphia Phillies at Washington Nationals,2019-09-25T19:05:00,Philadelphia Phillies,104,2019-09-25,19:05
+187,Philadelphia Phillies at Washington Nationals,2019-09-26T16:05:00,Philadelphia Phillies,114,2019-09-26,16:05
+188,Cleveland Indians at Washington Nationals,2019-09-27T19:05:00,Cleveland Indians,64,2019-09-27,19:05
+189,Cleveland Indians at Washington Nationals,2019-09-28T16:05:00,Cleveland Indians,63,2019-09-28,16:05
+190,Cleveland Indians at Washington Nationals,2019-09-29T15:05:00,Cleveland Indians,62,2019-09-29,15:05
