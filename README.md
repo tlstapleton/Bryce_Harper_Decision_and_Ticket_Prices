@@ -47,23 +47,23 @@ What opponents command the highest ticket prices at each team's home ballpark?
 For the Nationals, the Philadelphia Phillies command the highest ticket prices at Nationals Park on Seatgeek currently.  Will this change if Bryce Harper goes to the Phillies?  Will the local fans still flock to see a former hometown hero?  Or will they be turned off by
 a player who took his talents up 95 to a team in the same division?
 
-![Nats Away Games](/Images/nats_awayopponents.png)
+![Nats Home Games](/Images/nats_homeopponents.png)
 
 The highest median ticket prices at Citizens Bank Park can be found when the Phillies play the reigning World Series Champs, the Boston Red Sox.
 
-![Phils Away Games](/Images/phils_awayopponents.png)
+![Phils Home Games](/Images/phils_homeopponents.png)
 
 In L.A., the New York Yankees coming to town results in the highest median ticket prices.  Apparently in L.A., they love star power.
 
-![Dodgers Away Games](/Images/dodgers_awayopponents.png)
+![Dodgers Home Games](/Images/dodgers_homeopponents.png)
 
 ### Ticket Price for Away Games 
 
-![Nats Home Games](/Images/nats_homeopponents.png)
+![Nats Away Games](/Images/nats_awayopponents.png)
 
-![Phils Home Games](/Images/phils_homeopponents.png)
+![Phils Away Games](/Images/phils_awayopponents.png)
 
-![Dodgers Home Games](/Images/dodgers_homeopponents.png)
+![Dodgers Away Games](/Images/dodgers_awayopponents.png)
 
 ## Conclusions Pre-Harper Decision
 
