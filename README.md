@@ -5,9 +5,10 @@ Currently, rumors indicate that the Philadelphia Philles are a strong contender.
 
 The question I am looking at is how will Harper's decision influence ticket prices for the 2019 season.  I used the Seatgeek API to pull the median ticket price for every Washington Nationals, Philadelphia Phillies, and LA Dodgers game as of February 2019, before any Bryce Harper decision has been announced.
 
+## February 2019 - Before Bryce Harper Decision
 As of February 2019, pre-Bryce Harper Decision Day, this is how ticket prices look for the 2019 season:
 
-## Timeseries of All Games
+### Timeseries of All Games
 
 The below graphs show the timeseries change of median ticket prices for all 2019 season and spring training 
 games for each of the three teams: Washington Nationals, Philadelphia Phillis, and the Los Angeles Dodgers.
@@ -19,7 +20,7 @@ The green vertical line denotes Opening Day, which shows an expected spike in me
 
 ![Dodgers All Games](/Images/dodgers_all_games.png)
 
-## Ticket Prices by Opponent
+### Ticket Prices by Opponent
 
 If we look at the average of the median ticket price of all games for each of the three teams grouped by opponent, we can see that certain opponents command significantly higher ticket prices than others.  In addition, these opponents differ from team to team.
 
@@ -29,7 +30,7 @@ If we look at the average of the median ticket price of all games for each of th
 
 ![Dodgers All Opponents](/Images/dodgers_allopponents.png)
 
-## Ticket Price for Home Games 
+### Ticket Price for Home Games 
 
 What opponents command the highest ticket prices at each team's home ballpark?  
 
@@ -46,7 +47,7 @@ In L.A., the New York Yankees coming to town results in the highest median ticke
 
 ![Dodgers Away Games](/Images/dodgers_awayopponents.png)
 
-## Ticket Price for Away Games 
+### Ticket Price for Away Games 
 
 ![Nats Home Games](/Images/nats_homeopponents.png)
 
