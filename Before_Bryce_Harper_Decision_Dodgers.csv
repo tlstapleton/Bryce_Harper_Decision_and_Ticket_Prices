@@ -1,0 +1,193 @@
+,event,datetime,opponent,median_ticket_price,dodgers_home_away,date,time
+0,Spring Training: Chicago Cubs at Los Angeles Dodgers,2019-02-25T13:05:00,Chicago Cubs,11,Spring Training,2019-02-25,13:05
+1,Spring Training: Los Angeles Dodgers at Kansas City Royals,2019-02-26T13:05:00,Kansas City Royals,36,Spring Training,2019-02-26,13:05
+2,Spring Training: Los Angeles Dodgers at Oakland Athletics,2019-02-27T13:05:00,Oakland Athletics,49,Spring Training,2019-02-27,13:05
+3,Spring Training: Colorado Rockies at Los Angeles Dodgers,2019-02-28T13:05:00,Colorado Rockies,28,Spring Training,2019-02-28,13:05
+4,Spring Training: San Diego Padres at Los Angeles Dodgers,2019-03-01T18:05:00,San Diego Padres,51,Spring Training,2019-03-01,18:05
+5,Spring Training: Los Angeles Dodgers at Cleveland Indians,2019-03-01T18:10:00,Cleveland Indians,49,Spring Training,2019-03-01,18:10
+6,Spring Training: Los Angeles Dodgers at Arizona Diamondbacks,2019-03-02T13:10:00,Arizona Diamondbacks,96,Spring Training,2019-03-02,13:10
+7,Spring Training: Texas Rangers at Los Angeles Dodgers,2019-03-03T13:05:00,Texas Rangers,54,Spring Training,2019-03-03,13:05
+8,Spring Training: Los Angeles Dodgers at San Francisco Giants,2019-03-04T13:05:00,San Francisco Giants,88,Spring Training,2019-03-04,13:05
+9,Spring Training: Cleveland Indians at Los Angeles Dodgers,2019-03-06T19:05:00,Cleveland Indians,50,Spring Training,2019-03-06,19:05
+10,Spring Training: Los Angeles Dodgers at Los Angeles Angels,2019-03-07T13:10:00,Los Angeles Angels,75,Spring Training,2019-03-07,13:10
+11,Spring Training: Kansas City Royals at Los Angeles Dodgers,2019-03-08T19:05:00,Kansas City Royals,56,Spring Training,2019-03-08,19:05
+12,Spring Training: Seattle Mariners at Los Angeles Dodgers,2019-03-09T13:05:00,Seattle Mariners,82,Spring Training,2019-03-09,13:05
+13,Spring Training: Los Angeles Dodgers at Colorado Rockies,2019-03-10T13:10:00,Colorado Rockies,88,Spring Training,2019-03-10,13:10
+14,Spring Training: San Francisco Giants at Los Angeles Dodgers,2019-03-11T13:05:00,San Francisco Giants,77,Spring Training,2019-03-11,13:05
+15,Spring Training: Chicago White Sox at Los Angeles Dodgers,2019-03-13T19:05:00,Chicago White Sox,49,Spring Training,2019-03-13,19:05
+16,Spring Training: Cincinnati Reds at Los Angeles Dodgers,2019-03-14T13:05:00,Cincinnati Reds,49,Spring Training,2019-03-14,13:05
+17,Spring Training: Los Angeles Dodgers at San Diego Padres,2019-03-14T18:40:00,San Diego Padres,77,Spring Training,2019-03-14,18:40
+18,Spring Training: Los Angeles Dodgers at Cincinnati Reds,2019-03-15T18:05:00,Cincinnati Reds,72,Spring Training,2019-03-15,18:05
+19,Spring Training: Los Angeles Dodgers at Chicago White Sox,2019-03-16T13:05:00,Chicago White Sox,86,Spring Training,2019-03-16,13:05
+20,Spring Training: Milwaukee Brewers at Los Angeles Dodgers,2019-03-17T13:05:00,Milwaukee Brewers,69,Spring Training,2019-03-17,13:05
+21,Spring Training: Los Angeles Dodgers at Texas Rangers,2019-03-18T19:05:00,Texas Rangers,76,Spring Training,2019-03-18,19:05
+22,Spring Training: Cleveland Indians at Los Angeles Dodgers,2019-03-19T19:05:00,Cleveland Indians,55,Spring Training,2019-03-19,19:05
+23,Spring Training: Los Angeles Dodgers at Chicago Cubs,2019-03-20T19:05:00,Chicago Cubs,112,Spring Training,2019-03-20,19:05
+24,Spring Training: Los Angeles Dodgers at Milwaukee Brewers,2019-03-21T13:05:00,Milwaukee Brewers,73,Spring Training,2019-03-21,13:05
+25,Spring Training: Arizona Diamondbacks at Los Angeles Dodgers,2019-03-22T13:05:00,Arizona Diamondbacks,61,Spring Training,2019-03-22,13:05
+26,Spring Training: Chicago White Sox at Los Angeles Dodgers,2019-03-23T12:05:00,Chicago White Sox,75,Spring Training,2019-03-23,12:05
+27,Spring Training: Los Angeles Dodgers at Los Angeles Angels,2019-03-24T17:07:00,Los Angeles Angels,103,Spring Training,2019-03-24,17:07
+28,Spring Training: Los Angeles Dodgers at Los Angeles Angels,2019-03-25T19:07:00,Los Angeles Angels,81,Spring Training,2019-03-25,19:07
+29,Los Angeles Dodgers at Los Angeles Angels,2019-03-26T19:00:00,Los Angeles Angels,52,Home,2019-03-26,19:00
+30,Opening Day: Arizona Diamondbacks at Los Angeles Dodgers,2019-03-28T13:10:00,Arizona Diamondbacks,374,Home,2019-03-28,13:10
+31,Arizona Diamondbacks at Los Angeles Dodgers,2019-03-29T19:10:00,Arizona Diamondbacks,112,Home,2019-03-29,19:10
+32,Arizona Diamondbacks at Los Angeles Dodgers,2019-03-30T18:10:00,Arizona Diamondbacks,138,Home,2019-03-30,18:10
+33,Arizona Diamondbacks at Los Angeles Dodgers,2019-03-31T13:10:00,Arizona Diamondbacks,77,Home,2019-03-31,13:10
+34,San Francisco Giants at Los Angeles Dodgers,2019-04-01T19:10:00,San Francisco Giants,90,Home,2019-04-01,19:10
+35,San Francisco Giants at Los Angeles Dodgers,2019-04-02T19:10:00,San Francisco Giants,88,Home,2019-04-02,19:10
+36,San Francisco Giants at Los Angeles Dodgers,2019-04-03T19:10:00,San Francisco Giants,126,Home,2019-04-03,19:10
+37,Opening Day: Los Angeles Dodgers at Colorado Rockies,2019-04-05T14:10:00,Colorado Rockies,244,Away,2019-04-05,14:10
+38,Los Angeles Dodgers at Colorado Rockies,2019-04-06T18:10:00,Colorado Rockies,91,Away,2019-04-06,18:10
+39,Los Angeles Dodgers at Colorado Rockies,2019-04-07T18:37:00,Colorado Rockies,77,Away,2019-04-07,18:37
+40,Los Angeles Dodgers at St. Louis Cardinals,2019-04-08T18:45:00,St. Louis Cardinals,77,Away,2019-04-08,18:45
+41,Los Angeles Dodgers at St. Louis Cardinals,2019-04-09T18:45:00,St. Louis Cardinals,74,Away,2019-04-09,18:45
+42,Los Angeles Dodgers at St. Louis Cardinals,2019-04-10T18:45:00,St. Louis Cardinals,79,Away,2019-04-10,18:45
+43,Los Angeles Dodgers at St. Louis Cardinals,2019-04-11T12:15:00,St. Louis Cardinals,80,Away,2019-04-11,12:15
+44,Milwaukee Brewers at Los Angeles Dodgers,2019-04-12T19:10:00,Milwaukee Brewers,89,Home,2019-04-12,19:10
+45,Milwaukee Brewers at Los Angeles Dodgers,2019-04-13T18:10:00,Milwaukee Brewers,124,Home,2019-04-13,18:10
+46,Milwaukee Brewers at Los Angeles Dodgers,2019-04-14T13:10:00,Milwaukee Brewers,80,Home,2019-04-14,13:10
+47,Cincinnati Reds at Los Angeles Dodgers,2019-04-15T19:10:00,Cincinnati Reds,105,Home,2019-04-15,19:10
+48,Cincinnati Reds at Los Angeles Dodgers,2019-04-16T19:10:00,Cincinnati Reds,78,Home,2019-04-16,19:10
+49,Cincinnati Reds at Los Angeles Dodgers,2019-04-17T12:10:00,Cincinnati Reds,66,Home,2019-04-17,12:10
+50,Los Angeles Dodgers at Milwaukee Brewers,2019-04-18T19:10:00,Milwaukee Brewers,54,Away,2019-04-18,19:10
+51,Los Angeles Dodgers at Milwaukee Brewers,2019-04-19T19:10:00,Milwaukee Brewers,69,Away,2019-04-19,19:10
+52,Los Angeles Dodgers at Milwaukee Brewers,2019-04-20T18:10:00,Milwaukee Brewers,78,Away,2019-04-20,18:10
+53,Los Angeles Dodgers at Milwaukee Brewers,2019-04-21T13:10:00,Milwaukee Brewers,79,Away,2019-04-21,13:10
+54,Los Angeles Dodgers at Chicago Cubs,2019-04-23T19:05:00,Chicago Cubs,86,Away,2019-04-23,19:05
+55,Los Angeles Dodgers at Chicago Cubs,2019-04-24T19:05:00,Chicago Cubs,81,Away,2019-04-24,19:05
+56,Los Angeles Dodgers at Chicago Cubs,2019-04-25T13:20:00,Chicago Cubs,89,Away,2019-04-25,13:20
+57,Pittsburgh Pirates at Los Angeles Dodgers,2019-04-26T19:10:00,Pittsburgh Pirates,85,Home,2019-04-26,19:10
+58,Pittsburgh Pirates at Los Angeles Dodgers,2019-04-27T18:10:00,Pittsburgh Pirates,102,Home,2019-04-27,18:10
+59,Pittsburgh Pirates at Los Angeles Dodgers,2019-04-28T13:10:00,Pittsburgh Pirates,87,Home,2019-04-28,13:10
+60,Los Angeles Dodgers at San Francisco Giants,2019-04-29T18:45:00,San Francisco Giants,107,Away,2019-04-29,18:45
+61,Los Angeles Dodgers at San Francisco Giants,2019-04-30T18:45:00,San Francisco Giants,101,Away,2019-04-30,18:45
+62,Los Angeles Dodgers at San Francisco Giants,2019-05-01T18:45:00,San Francisco Giants,103,Away,2019-05-01,18:45
+63,Los Angeles Dodgers at San Diego Padres,2019-05-03T19:10:00,San Diego Padres,97,Away,2019-05-03,19:10
+64,Los Angeles Dodgers at San Diego Padres,2019-05-04T17:40:00,San Diego Padres,95,Away,2019-05-04,17:40
+65,Los Angeles Dodgers at San Diego Padres,2019-05-05T13:10:00,San Diego Padres,87,Away,2019-05-05,13:10
+66,Atlanta Braves at Los Angeles Dodgers,2019-05-06T19:10:00,Atlanta Braves,67,Home,2019-05-06,19:10
+67,Atlanta Braves at Los Angeles Dodgers,2019-05-07T19:10:00,Atlanta Braves,77,Home,2019-05-07,19:10
+68,Atlanta Braves at Los Angeles Dodgers,2019-05-08T19:10:00,Atlanta Braves,77,Home,2019-05-08,19:10
+69,Washington Nationals at Los Angeles Dodgers,2019-05-09T19:10:00,Washington Nationals,101,Home,2019-05-09,19:10
+70,Washington Nationals at Los Angeles Dodgers,2019-05-10T19:10:00,Washington Nationals,94,Home,2019-05-10,19:10
+71,Washington Nationals at Los Angeles Dodgers,2019-05-11T18:10:00,Washington Nationals,113,Home,2019-05-11,18:10
+72,Washington Nationals at Los Angeles Dodgers,2019-05-12T13:10:00,Washington Nationals,111,Home,2019-05-12,13:10
+73,San Diego Padres at Los Angeles Dodgers,2019-05-14T19:10:00,San Diego Padres,70,Home,2019-05-14,19:10
+74,San Diego Padres at Los Angeles Dodgers,2019-05-15T19:10:00,San Diego Padres,100,Home,2019-05-15,19:10
+75,Los Angeles Dodgers at Cincinnati Reds,2019-05-17T19:10:00,Cincinnati Reds,87,Away,2019-05-17,19:10
+76,Los Angeles Dodgers at Cincinnati Reds,2019-05-18T16:10:00,Cincinnati Reds,94,Away,2019-05-18,16:10
+77,Los Angeles Dodgers at Cincinnati Reds,2019-05-19T13:10:00,Cincinnati Reds,82,Away,2019-05-19,13:10
+78,Los Angeles Dodgers at Tampa Bay Rays,2019-05-21T19:10:00,Tampa Bay Rays,120,Away,2019-05-21,19:10
+79,Los Angeles Dodgers at Tampa Bay Rays,2019-05-22T19:10:00,Tampa Bay Rays,120,Away,2019-05-22,19:10
+80,Los Angeles Dodgers at Pittsburgh Pirates,2019-05-24T19:05:00,Pittsburgh Pirates,54,Away,2019-05-24,19:05
+81,Los Angeles Dodgers at Pittsburgh Pirates,2019-05-25T19:15:00,Pittsburgh Pirates,67,Away,2019-05-25,19:15
+82,Los Angeles Dodgers at Pittsburgh Pirates,2019-05-26T13:35:00,Pittsburgh Pirates,53,Away,2019-05-26,13:35
+83,New York Mets at Los Angeles Dodgers,2019-05-27T17:10:00,New York Mets,95,Home,2019-05-27,17:10
+84,New York Mets at Los Angeles Dodgers,2019-05-28T19:10:00,New York Mets,86,Home,2019-05-28,19:10
+85,New York Mets at Los Angeles Dodgers,2019-05-29T19:10:00,New York Mets,82,Home,2019-05-29,19:10
+86,New York Mets at Los Angeles Dodgers,2019-05-30T19:10:00,New York Mets,91,Home,2019-05-30,19:10
+87,Philadelphia Phillies at Los Angeles Dodgers,2019-05-31T19:10:00,Philadelphia Phillies,95,Home,2019-05-31,19:10
+88,Philadelphia Phillies at Los Angeles Dodgers,2019-06-01T19:10:00,Philadelphia Phillies,131,Home,2019-06-01,19:10
+89,Philadelphia Phillies at Los Angeles Dodgers,2019-06-02T13:10:00,Philadelphia Phillies,98,Home,2019-06-02,13:10
+90,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-03T18:40:00,Arizona Diamondbacks,87,Away,2019-06-03,18:40
+91,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-04T18:40:00,Arizona Diamondbacks,85,Away,2019-06-04,18:40
+92,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-05T12:40:00,Arizona Diamondbacks,90,Away,2019-06-05,12:40
+93,Los Angeles Dodgers at San Francisco Giants,2019-06-07T19:15:00,San Francisco Giants,130,Away,2019-06-07,19:15
+94,Los Angeles Dodgers at San Francisco Giants,2019-06-08T16:15:00,San Francisco Giants,186,Away,2019-06-08,16:15
+95,Los Angeles Dodgers at San Francisco Giants,2019-06-09T13:05:00,San Francisco Giants,174,Away,2019-06-09,13:05
+96,Los Angeles Dodgers at Los Angeles Angels,2019-06-10T19:07:00,Los Angeles Angels,153,Away,2019-06-10,19:07
+97,Los Angeles Dodgers at Los Angeles Angels,2019-06-11T19:07:00,Los Angeles Angels,161,Away,2019-06-11,19:07
+98,Chicago Cubs at Los Angeles Dodgers,2019-06-13T19:10:00,Chicago Cubs,111,Home,2019-06-13,19:10
+99,Chicago Cubs at Los Angeles Dodgers,2019-06-14T19:10:00,Chicago Cubs,120,Home,2019-06-14,19:10
+100,Chicago Cubs at Los Angeles Dodgers,2019-06-15T18:10:00,Chicago Cubs,130,Home,2019-06-15,18:10
+101,Chicago Cubs at Los Angeles Dodgers,2019-06-16T16:08:00,Chicago Cubs,124,Home,2019-06-16,16:08
+102,San Francisco Giants at Los Angeles Dodgers,2019-06-17T19:10:00,San Francisco Giants,113,Home,2019-06-17,19:10
+103,San Francisco Giants at Los Angeles Dodgers,2019-06-18T19:10:00,San Francisco Giants,119,Home,2019-06-18,19:10
+104,San Francisco Giants at Los Angeles Dodgers,2019-06-19T19:10:00,San Francisco Giants,100,Home,2019-06-19,19:10
+105,San Francisco Giants at Los Angeles Dodgers,2019-06-20T19:10:00,San Francisco Giants,101,Home,2019-06-20,19:10
+106,Colorado Rockies at Los Angeles Dodgers,2019-06-21T19:10:00,Colorado Rockies,92,Home,2019-06-21,19:10
+107,Colorado Rockies at Los Angeles Dodgers,2019-06-22T16:15:00,Colorado Rockies,112,Home,2019-06-22,16:15
+108,Colorado Rockies at Los Angeles Dodgers,2019-06-23T13:10:00,Colorado Rockies,87,Home,2019-06-23,13:10
+109,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-24T18:40:00,Arizona Diamondbacks,80,Away,2019-06-24,18:40
+110,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-25T18:40:00,Arizona Diamondbacks,81,Away,2019-06-25,18:40
+111,Los Angeles Dodgers at Arizona Diamondbacks,2019-06-26T12:40:00,Arizona Diamondbacks,79,Away,2019-06-26,12:40
+112,Los Angeles Dodgers at Colorado Rockies,2019-06-27T18:40:00,Colorado Rockies,58,Away,2019-06-27,18:40
+113,Los Angeles Dodgers at Colorado Rockies,2019-06-28T18:40:00,Colorado Rockies,77,Away,2019-06-28,18:40
+114,Los Angeles Dodgers at Colorado Rockies,2019-06-29T18:15:00,Colorado Rockies,87,Away,2019-06-29,18:15
+115,Los Angeles Dodgers at Colorado Rockies,2019-06-30T13:10:00,Colorado Rockies,80,Away,2019-06-30,13:10
+116,Arizona Diamondbacks at Los Angeles Dodgers,2019-07-02T19:10:00,Arizona Diamondbacks,88,Home,2019-07-02,19:10
+117,Arizona Diamondbacks at Los Angeles Dodgers,2019-07-03T19:10:00,Arizona Diamondbacks,98,Home,2019-07-03,19:10
+118,San Diego Padres at Los Angeles Dodgers,2019-07-04T18:10:00,San Diego Padres,124,Home,2019-07-04,18:10
+119,San Diego Padres at Los Angeles Dodgers,2019-07-05T19:10:00,San Diego Padres,115,Home,2019-07-05,19:10
+120,San Diego Padres at Los Angeles Dodgers,2019-07-06T19:10:00,San Diego Padres,111,Home,2019-07-06,19:10
+121,San Diego Padres at Los Angeles Dodgers,2019-07-07T13:10:00,San Diego Padres,90,Home,2019-07-07,13:10
+122,Los Angeles Dodgers at Boston Red Sox,2019-07-12T19:10:00,Boston Red Sox,236,Away,2019-07-12,19:10
+123,Los Angeles Dodgers at Boston Red Sox,2019-07-13T19:15:00,Boston Red Sox,257,Away,2019-07-13,19:15
+124,Los Angeles Dodgers at Boston Red Sox,2019-07-14T19:08:00,Boston Red Sox,214,Away,2019-07-14,19:08
+125,Los Angeles Dodgers at Philadelphia Phillies,2019-07-15T19:05:00,Philadelphia Phillies,116,Away,2019-07-15,19:05
+126,Los Angeles Dodgers at Philadelphia Phillies,2019-07-16T19:05:00,Philadelphia Phillies,110,Away,2019-07-16,19:05
+127,Los Angeles Dodgers at Philadelphia Phillies,2019-07-17T19:05:00,Philadelphia Phillies,111,Away,2019-07-17,19:05
+128,Los Angeles Dodgers at Philadelphia Phillies,2019-07-18T12:35:00,Philadelphia Phillies,114,Away,2019-07-18,12:35
+129,Miami Marlins at Los Angeles Dodgers,2019-07-19T19:10:00,Miami Marlins,90,Home,2019-07-19,19:10
+130,Miami Marlins at Los Angeles Dodgers,2019-07-20T18:10:00,Miami Marlins,137,Home,2019-07-20,18:10
+131,Miami Marlins at Los Angeles Dodgers,2019-07-21T13:10:00,Miami Marlins,86,Home,2019-07-21,13:10
+132,Los Angeles Angels at Los Angeles Dodgers,2019-07-23T19:10:00,Los Angeles Angels,135,Home,2019-07-23,19:10
+133,Los Angeles Angels at Los Angeles Dodgers,2019-07-24T19:10:00,Los Angeles Angels,136,Home,2019-07-24,19:10
+134,Los Angeles Dodgers at Washington Nationals,2019-07-26T19:05:00,Washington Nationals,106,Away,2019-07-26,19:05
+135,Los Angeles Dodgers at Washington Nationals,2019-07-27T16:05:00,Washington Nationals,113,Away,2019-07-27,16:05
+136,Los Angeles Dodgers at Washington Nationals,2019-07-28T13:35:00,Washington Nationals,92,Away,2019-07-28,13:35
+137,Los Angeles Dodgers at Colorado Rockies,2019-07-29T18:40:00,Colorado Rockies,71,Away,2019-07-29,18:40
+138,Los Angeles Dodgers at Colorado Rockies,2019-07-30T18:40:00,Colorado Rockies,70,Away,2019-07-30,18:40
+139,Los Angeles Dodgers at Colorado Rockies,2019-07-31T13:10:00,Colorado Rockies,70,Away,2019-07-31,13:10
+140,San Diego Padres at Los Angeles Dodgers,2019-08-01T19:10:00,San Diego Padres,77,Home,2019-08-01,19:10
+141,San Diego Padres at Los Angeles Dodgers,2019-08-02T19:10:00,San Diego Padres,95,Home,2019-08-02,19:10
+142,San Diego Padres at Los Angeles Dodgers,2019-08-03T18:10:00,San Diego Padres,111,Home,2019-08-03,18:10
+143,San Diego Padres at Los Angeles Dodgers,2019-08-04T13:10:00,San Diego Padres,89,Home,2019-08-04,13:10
+144,St. Louis Cardinals at Los Angeles Dodgers,2019-08-05T19:10:00,St. Louis Cardinals,114,Home,2019-08-05,19:10
+145,St. Louis Cardinals at Los Angeles Dodgers,2019-08-06T19:10:00,St. Louis Cardinals,80,Home,2019-08-06,19:10
+146,St. Louis Cardinals at Los Angeles Dodgers,2019-08-07T12:10:00,St. Louis Cardinals,69,Home,2019-08-07,12:10
+147,Arizona Diamondbacks at Los Angeles Dodgers,2019-08-09T19:10:00,Arizona Diamondbacks,93,Home,2019-08-09,19:10
+148,Arizona Diamondbacks at Los Angeles Dodgers,2019-08-10T18:10:00,Arizona Diamondbacks,103,Home,2019-08-10,18:10
+149,Arizona Diamondbacks at Los Angeles Dodgers,2019-08-11T13:10:00,Arizona Diamondbacks,86,Home,2019-08-11,13:10
+150,Los Angeles Dodgers at Miami Marlins,2019-08-13T19:10:00,Miami Marlins,99,Away,2019-08-13,19:10
+151,Los Angeles Dodgers at Miami Marlins,2019-08-14T19:10:00,Miami Marlins,93,Away,2019-08-14,19:10
+152,Los Angeles Dodgers at Miami Marlins,2019-08-15T15:05:00,Miami Marlins,99,Away,2019-08-15,15:05
+153,Los Angeles Dodgers at Atlanta Braves,2019-08-16T19:20:00,Atlanta Braves,93,Away,2019-08-16,19:20
+154,Los Angeles Dodgers at Atlanta Braves,2019-08-17T19:20:00,Atlanta Braves,112,Away,2019-08-17,19:20
+155,Los Angeles Dodgers at Atlanta Braves,2019-08-18T13:20:00,Atlanta Braves,73,Away,2019-08-18,13:20
+156,Toronto Blue Jays at Los Angeles Dodgers,2019-08-20T19:10:00,Toronto Blue Jays,87,Home,2019-08-20,19:10
+157,Toronto Blue Jays at Los Angeles Dodgers,2019-08-21T19:10:00,Toronto Blue Jays,104,Home,2019-08-21,19:10
+158,Toronto Blue Jays at Los Angeles Dodgers,2019-08-22T19:10:00,Toronto Blue Jays,111,Home,2019-08-22,19:10
+159,New York Yankees at Los Angeles Dodgers,2019-08-23T19:10:00,New York Yankees,262,Home,2019-08-23,19:10
+160,New York Yankees at Los Angeles Dodgers,2019-08-24T13:05:00,New York Yankees,251,Home,2019-08-24,13:05
+161,New York Yankees at Los Angeles Dodgers,2019-08-25T16:08:00,New York Yankees,255,Home,2019-08-25,16:08
+162,Los Angeles Dodgers at San Diego Padres,2019-08-26T19:10:00,San Diego Padres,104,Away,2019-08-26,19:10
+163,Los Angeles Dodgers at San Diego Padres,2019-08-27T19:10:00,San Diego Padres,106,Away,2019-08-27,19:10
+164,Los Angeles Dodgers at San Diego Padres,2019-08-28T18:10:00,San Diego Padres,96,Away,2019-08-28,18:10
+165,Los Angeles Dodgers at Arizona Diamondbacks,2019-08-29T18:40:00,Arizona Diamondbacks,81,Away,2019-08-29,18:40
+166,Los Angeles Dodgers at Arizona Diamondbacks,2019-08-30T18:40:00,Arizona Diamondbacks,86,Away,2019-08-30,18:40
+167,Los Angeles Dodgers at Arizona Diamondbacks,2019-08-31T17:10:00,Arizona Diamondbacks,104,Away,2019-08-31,17:10
+168,Los Angeles Dodgers at Arizona Diamondbacks,2019-09-01T13:10:00,Arizona Diamondbacks,98,Away,2019-09-01,13:10
+169,Colorado Rockies at Los Angeles Dodgers,2019-09-02T17:10:00,Colorado Rockies,94,Home,2019-09-02,17:10
+170,Colorado Rockies at Los Angeles Dodgers,2019-09-03T19:10:00,Colorado Rockies,79,Home,2019-09-03,19:10
+171,Colorado Rockies at Los Angeles Dodgers,2019-09-04T19:10:00,Colorado Rockies,100,Home,2019-09-04,19:10
+172,San Francisco Giants at Los Angeles Dodgers,2019-09-06T19:10:00,San Francisco Giants,109,Home,2019-09-06,19:10
+173,San Francisco Giants at Los Angeles Dodgers,2019-09-07T18:10:00,San Francisco Giants,117,Home,2019-09-07,18:10
+174,San Francisco Giants at Los Angeles Dodgers,2019-09-08T13:10:00,San Francisco Giants,106,Home,2019-09-08,13:10
+175,Los Angeles Dodgers at Baltimore Orioles,2019-09-10T19:05:00,Baltimore Orioles,103,Away,2019-09-10,19:05
+176,Los Angeles Dodgers at Baltimore Orioles,2019-09-11T19:05:00,Baltimore Orioles,101,Away,2019-09-11,19:05
+177,Los Angeles Dodgers at Baltimore Orioles,2019-09-12T19:05:00,Baltimore Orioles,85,Away,2019-09-12,19:05
+178,Los Angeles Dodgers at New York Mets,2019-09-13T19:10:00,New York Mets,61,Away,2019-09-13,19:10
+179,Los Angeles Dodgers at New York Mets,2019-09-14T19:10:00,New York Mets,76,Away,2019-09-14,19:10
+180,Los Angeles Dodgers at New York Mets,2019-09-15T13:10:00,New York Mets,62,Away,2019-09-15,13:10
+181,Tampa Bay Rays at Los Angeles Dodgers,2019-09-17T19:10:00,Tampa Bay Rays,94,Home,2019-09-17,19:10
+182,Tampa Bay Rays at Los Angeles Dodgers,2019-09-18T17:10:00,Tampa Bay Rays,73,Home,2019-09-18,17:10
+183,Colorado Rockies at Los Angeles Dodgers,2019-09-20T19:10:00,Colorado Rockies,99,Home,2019-09-20,19:10
+184,Colorado Rockies at Los Angeles Dodgers,2019-09-21T18:10:00,Colorado Rockies,129,Home,2019-09-21,18:10
+185,Colorado Rockies at Los Angeles Dodgers,2019-09-22T13:10:00,Colorado Rockies,109,Home,2019-09-22,13:10
+186,Los Angeles Dodgers at San Diego Padres,2019-09-24T19:10:00,San Diego Padres,92,Away,2019-09-24,19:10
+187,Los Angeles Dodgers at San Diego Padres,2019-09-25T19:10:00,San Diego Padres,87,Away,2019-09-25,19:10
+188,Los Angeles Dodgers at San Diego Padres,2019-09-26T12:40:00,San Diego Padres,83,Away,2019-09-26,12:40
+189,Los Angeles Dodgers at San Francisco Giants,2019-09-27T19:15:00,San Francisco Giants,149,Away,2019-09-27,19:15
+190,Los Angeles Dodgers at San Francisco Giants,2019-09-28T13:05:00,San Francisco Giants,194,Away,2019-09-28,13:05
+191,Los Angeles Dodgers at San Francisco Giants,2019-09-29T12:05:00,San Francisco Giants,228,Away,2019-09-29,12:05
