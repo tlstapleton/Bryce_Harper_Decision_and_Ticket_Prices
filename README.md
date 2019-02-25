@@ -84,3 +84,4 @@ Once again, Boston comes in at the top when the L.A. Dodgers are away as well.
 
 * Although it may be true that teams such as the Cubs and Red Sox have higher ticket prices in their home stadiums regardless of opponent, it will be interesting to see if Bryce Harper's decision makes these prices go up or down relative to how they currently stand, before his decision.
 
+# To Be Continued...
