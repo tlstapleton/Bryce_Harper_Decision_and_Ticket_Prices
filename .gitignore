@@ -1,2 +1,8 @@
 #Ignore config file
 *config.py
+
+#Ignore other file
+*Extract_SeatGeek.py
+
+#Ignore output folder
+Output/
