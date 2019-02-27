@@ -6,3 +6,9 @@
 
 #Ignore output folder
 Output/
+
+#ignore image
+*curly_w.jpg
+
+#ignore excel
+Before_Bryce_Harper_Decision_Nats.xlsx
