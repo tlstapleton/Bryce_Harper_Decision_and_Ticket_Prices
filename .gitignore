@@ -12,3 +12,14 @@ Output/
 
 #ignore excel
 Before_Bryce_Harper_Decision_Nats.xlsx
+*Mongo_SeatGeek_Dodgers.py
+*Mongo_SeatGeek_Nationals.py
+*Mongo_SeatGeek_Phillies.py
+*import_existing.py
+*SQL_Dodgers.py
+*SQL_Nationals.py
+*SQL_Phillies.py
+*Untitled.ipynb
+*Untitled1.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/Untitled1-checkpoint.ipynb
