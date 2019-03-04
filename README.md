@@ -1,12 +1,12 @@
 # Bryce Harper & Ticket Prices
 
-In February of 2019, with Spring Training already begun, Bryce Harper, perhaps the biggest free agent of the 2018-2019 offseason, remains unsigned.
+In late February of 2019 (February 25), with Spring Training already begun, Bryce Harper, perhaps the biggest free agent of the 2018-2019 offseason, remains unsigned.
 Currently, rumors indicate that the Philadelphia Philles are a strong contender.  Other teams in the mix are the Dodgers, Giants, Padres, and Nationals, to varying degrees.
 
 The question I am looking at is how will Harper's decision influence ticket prices for the 2019 season.  I used the SeatGeek API to pull the median ticket price for every Washington Nationals, Philadelphia Phillies, and LA Dodgers game as of February 2019, before any Bryce Harper decision has been announced.
 
 ## February 2019 - Before Bryce Harper Decision
-As of February 2019, pre-Bryce Harper Decision Day, this is how ticket prices look for the 2019 season:
+As of February 25, 2019, pre-Bryce Harper Decision Day, this is how ticket prices look for the 2019 season:
 
 ### Timeseries of All Games
 
@@ -84,6 +84,14 @@ Once again, Boston comes in at the top when the L.A. Dodgers are away as well.
 
 * Although it may be true that teams such as the Cubs and Red Sox have higher ticket prices in their home stadiums regardless of opponent, it will be interesting to see if Bryce Harper's decision makes these prices go up or down relative to how they currently stand, before his decision.
 
-# To Be Continued...
+# March 2019 - After Bryce Harper Decision
+
+## The Decision
+
+On February 28, 2019 at approximately 1:50pm, news broke that the Philadelphia Phillies were going to sign Bryce Harper to a 13-year, $330 million dollar deal.
+After collecting the median ticket price for Phillies Opening Day as they stood on SeatGeek on February 25, February 26, and February 27, I also collected the median ticket price at every hour for 24 hours after the Bryce Harper news broke.  The week of the decision, the median ticket price wavered between $165 and $180 before the news broke.
+
 
 ![](/Images/Phillies_GIF.gif)
+
+At February 28th on 2pm, just as news was breaking about Bryce Harper joining the Phillies, the median ticket price on SeatGeek for the Phillies' Home Opener was $175.  An hour later, the median ticket price was $234, a 33.7% increase. 
